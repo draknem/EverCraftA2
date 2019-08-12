@@ -1,0 +1,3847 @@
+fileFormatVersion: 2
+guid: c94c5311e5e96bb479bffcd7223ce85d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8020792422996973119
+    second: tileset-ditch-corner-tl
+  - first:
+      213: 7622575126782243504
+    second: tileset-ditch-wall-t1
+  - first:
+      213: -5056025633293989528
+    second: tileset-ditch-wall-t2
+  - first:
+      213: 5333720824279054982
+    second: tileset-ditch-wall-t3
+  - first:
+      213: -5232436616217831087
+    second: tileset-ditch-wall-t4
+  - first:
+      213: 8187979096719078458
+    second: tileset-ditch-corner-tr
+  - first:
+      213: -2235941659904884338
+    second: tileset-swampywater-corner-tl
+  - first:
+      213: -2168684223711406176
+    second: tileset-swampywater-wall-t1
+  - first:
+      213: -1085757764421800911
+    second: tileset-swampywater-wall-t2
+  - first:
+      213: 4973835992339445236
+    second: tileset-swampywater-corner-tr
+  - first:
+      213: -2625335489137864698
+    second: tileset-swampywater-island-bl
+  - first:
+      213: 8229570887415758234
+    second: tileset-swampywater-wall-l1
+  - first:
+      213: 8867161112231138238
+    second: tileset-swampywater-rock
+  - first:
+      213: -8784487641343689580
+    second: tileset-swampywater-wall-r1
+  - first:
+      213: -5828040857380144616
+    second: tileset-ditch-wall-l1
+  - first:
+      213: 5512922540846680189
+    second: tileset-ditch-door_closed
+  - first:
+      213: -1212771841240213024
+    second: tileset-ditch-door_open
+  - first:
+      213: 9165148420479917735
+    second: tileset-ditch-wall-r1
+  - first:
+      213: -4603852178612683570
+    second: tileset-swampywater-wall-l2
+  - first:
+      213: 5265570729163935484
+    second: tileset-swampywater-wall-r2
+  - first:
+      213: -3143653778693314978
+    second: tileset-waterfall-left
+  - first:
+      213: -850241531969959492
+    second: tileset-ditch-wall-l2
+  - first:
+      213: -2304672727128620705
+    second: tileset-ditch-wall-r2
+  - first:
+      213: 4447391927100505344
+    second: tileset-swampywater-bubble
+  - first:
+      213: -5483675960577113276
+    second: tileset-swampywater-roc
+  - first:
+      213: 2579539874063866950
+    second: tileset-ditch-wall-l3
+  - first:
+      213: 2424661989531479048
+    second: tileset-ditch-ladder
+  - first:
+      213: 8460005599496329479
+    second: tileset-ditch-wall-r3
+  - first:
+      213: 4183624679388102006
+    second: tileset-swampywater-corner-bl
+  - first:
+      213: 6441094262660707957
+    second: tileset-swampywater-wall-b1
+  - first:
+      213: -3058506490785018268
+    second: tileset-swampywater-wall-b2
+  - first:
+      213: -5774405334793930303
+    second: tileset-swampywater-corner-br
+  - first:
+      213: 6864542464105368374
+    second: tileset-flower-angle
+  - first:
+      213: 6642295835797722845
+    second: tileset-flower
+  - first:
+      213: 7950090198149811095
+    second: tileset-ditch-wall-l4
+  - first:
+      213: 6584611610073148787
+    second: tileset-ditch-wall-r4
+  - first:
+      213: 7953928647319060498
+    second: tileset-hole-corner-tl1
+  - first:
+      213: -2705965462299797424
+    second: tileset-hole-wall-t
+  - first:
+      213: -4252782480052157552
+    second: tileset-hole-corner-tr1
+  - first:
+      213: 4139817615643025436
+    second: tileset-hole-corner-tl2
+  - first:
+      213: 3668591595767138898
+    second: tileset-hole-corner-tr2
+  - first:
+      213: 3596298000867399806
+    second: tileset-ditch-corner-bl
+  - first:
+      213: 1045128459966263314
+    second: tileset-ditch-wall-b1
+  - first:
+      213: 4116619017300698554
+    second: tileset-ditch-wall-b2
+  - first:
+      213: -3589982636622132726
+    second: tileset-ditch-wall-b3
+  - first:
+      213: -8930052257991932378
+    second: tileset-ditch-wall-b4
+  - first:
+      213: 4257369742982959978
+    second: tileset-ditch-corner-br
+  - first:
+      213: 5377579401652241825
+    second: tileset-hole-wall-l
+  - first:
+      213: 8364609108277474705
+    second: tileset-hole-1
+  - first:
+      213: 400812050444974297
+    second: tileset-hole-wall-r
+  - first:
+      213: -4564748824263588208
+    second: tileset-hole-2
+  - first:
+      213: -3781412447517039816
+    second: tileset-fence-end-l
+  - first:
+      213: 5182681697396754656
+    second: tileset-hole-corner-bl1
+  - first:
+      213: -3140246663281267157
+    second: tileset-hole-wall-b
+  - first:
+      213: 932243041560661764
+    second: tileset-hole-corner-br1
+  - first:
+      213: -6283606344640301416
+    second: tileset-hole-corner-bl2
+  - first:
+      213: 5328591923958208443
+    second: tileset-sliced_56tileset-hole-corner-br2
+  - first:
+      213: 3976022316319362365
+    second: tileset-fence-corner-tl
+  - first:
+      213: 3696824499305643015
+    second: tileset-fence-corner-tr
+  - first:
+      213: -2312856234986826905
+    second: tileset-trees-tl
+  - first:
+      213: 1106084945053415596
+    second: tileset-trees-t
+  - first:
+      213: 4918240498868846477
+    second: tileset-trees-tr
+  - first:
+      213: -4979070009616143990
+    second: tileset-dirt
+  - first:
+      213: 926161850240992034
+    second: tileset-sliced_63
+  - first:
+      213: -3146704295411059684
+    second: tileset-planks-v-t
+  - first:
+      213: -8774277277318192404
+    second: tileset-planks-h-l
+  - first:
+      213: 7166495999650178258
+    second: tileset-trees-l
+  - first:
+      213: 5742557075259787895
+    second: tileset-trees
+  - first:
+      213: 3707349414859694009
+    second: tileset-trees-r
+  - first:
+      213: 8088606010041840484
+    second: tileset-sliced_69
+  - first:
+      213: -4421449474183031779
+    second: tileset-sliced_70
+  - first:
+      213: 337020284799169934
+    second: tileset-sliced_71
+  - first:
+      213: 6269682995807580147
+    second: tileset-pole-b
+  - first:
+      213: 7621811716864641804
+    second: tileset-sliced_73
+  - first:
+      213: 4521338276816939578
+    second: tileset-sliced_74
+  - first:
+      213: 1989006961078018389
+    second: tileset-drygrass-m
+  - first:
+      213: 4296434068114500887
+    second: tileset-sliced_76
+  - first:
+      213: -5382599952528613768
+    second: tileset-sliced_77
+  - first:
+      213: 5618837450191078284
+    second: tileset-sliced_78
+  - first:
+      213: 1594806079736718076
+    second: tileset-sliced_79
+  - first:
+      213: 2473685157054244463
+    second: tileset-sliced_80
+  - first:
+      213: 6823183118975251951
+    second: tileset-sliced_81
+  - first:
+      213: 6179408791814761474
+    second: tileset-sliced_82
+  - first:
+      213: 6941290957853808962
+    second: tileset-trees-bl
+  - first:
+      213: 3088963208085363907
+    second: tileset-trees-b
+  - first:
+      213: -6126413747580118017
+    second: tileset-trees-br
+  - first:
+      213: -7392380995848571654
+    second: tileset-sliced_86
+  - first:
+      213: -684317117491450766
+    second: tileset-sliced_87
+  - first:
+      213: -278161941275924621
+    second: tileset-sliced_88
+  - first:
+      213: -4166377659969612683
+    second: tileset-sliced_89
+  - first:
+      213: -1918991173782740438
+    second: tileset-weeds-l
+  - first:
+      213: 3689740884921405071
+    second: tileset-oldbrick
+  - first:
+      213: 5958142582960167905
+    second: tileset-sliced_92
+  - first:
+      213: 4947192847621340167
+    second: tileset-sliced_93
+  - first:
+      213: 1567840812379356430
+    second: tileset-sliced_94
+  - first:
+      213: -2733366570862505408
+    second: tileset-sliced_95
+  - first:
+      213: -3250707278309441892
+    second: tileset-sliced_96
+  - first:
+      213: 8148093825457605491
+    second: tileset-sliced_97
+  - first:
+      213: -5606217683773091499
+    second: tileset-sliced_98
+  - first:
+      213: -3969426314000414709
+    second: tileset-sliced_99
+  - first:
+      213: 5074161137642635507
+    second: tileset-sliced_100
+  - first:
+      213: -1703229367961879305
+    second: tileset-sliced_101
+  - first:
+      213: -555776806912230492
+    second: tileset-sliced_102
+  - first:
+      213: -6740468736193696718
+    second: tileset-sliced_103
+  - first:
+      213: 7020874119987570073
+    second: tileset-sliced_104
+  - first:
+      213: -2760847801567442112
+    second: tileset-sliced_105
+  - first:
+      213: -1344979433109885689
+    second: tileset-sliced_106
+  - first:
+      213: 5647523809618714697
+    second: tileset-sliced_107
+  - first:
+      213: -1342895247417759750
+    second: tileset-sliced_108
+  - first:
+      213: 7749312822786079006
+    second: tileset-sliced_109
+  - first:
+      213: -1868610072412152818
+    second: tileset-sliced_110
+  - first:
+      213: -3512629715210052719
+    second: tileset-sliced_111
+  - first:
+      213: 4487748466719899279
+    second: tileset-sliced_112
+  - first:
+      213: -3865511740308573330
+    second: tileset-sliced_113
+  - first:
+      213: -4288648583351428627
+    second: tileset-sliced_114
+  - first:
+      213: 7073129013118310843
+    second: tileset-sliced_115
+  - first:
+      213: -3365331347862760687
+    second: tileset-sliced_116
+  - first:
+      213: 2140484636974589073
+    second: tileset-sliced_117
+  - first:
+      213: -4639427424818211633
+    second: tileset-sliced_118
+  - first:
+      213: 2394672313492731289
+    second: tileset-sliced_119
+  - first:
+      213: 6044592657512139556
+    second: tileset-sliced_120
+  - first:
+      213: 8422180510285873283
+    second: tileset-sliced_121
+  - first:
+      213: 5077595927697213913
+    second: tileset-sliced_122
+  - first:
+      213: 6278307708289855020
+    second: tileset-sliced_123
+  - first:
+      213: -8677795921651141001
+    second: tileset-sliced_124
+  - first:
+      213: -9144368330064790542
+    second: tileset-sliced_125
+  - first:
+      213: -2774653415543823199
+    second: tileset-sliced_126
+  - first:
+      213: 6671343891989693595
+    second: tileset-sliced_127
+  - first:
+      213: 7422210449594766178
+    second: tileset-sliced_128
+  - first:
+      213: -4531488486988327067
+    second: tileset-sliced_129
+  - first:
+      213: 3417122819050685005
+    second: tileset-sliced_130
+  - first:
+      213: 1064792509733464848
+    second: tileset-sliced_131
+  - first:
+      213: -7664523443258147847
+    second: tileset-sliced_132
+  - first:
+      213: 2584767416776782270
+    second: tileset-sliced_133
+  - first:
+      213: 3106468376584669649
+    second: tileset-sliced_134
+  - first:
+      213: 5590771776448743655
+    second: tileset-sliced_135
+  - first:
+      213: 6783044896508220329
+    second: tileset-sliced_136
+  - first:
+      213: -7061154500256012178
+    second: tileset-sliced_137
+  - first:
+      213: -5583800379931531812
+    second: tileset-sliced_138
+  - first:
+      213: -7640435081034542195
+    second: tileset-sliced_139
+  - first:
+      213: -5057354545063298637
+    second: tileset-sliced_140
+  - first:
+      213: -8501768730011826633
+    second: tileset-sliced_141
+  - first:
+      213: -6514135746822831516
+    second: tileset-sliced_142
+  - first:
+      213: -5505619799340016764
+    second: tileset-sliced_143
+  - first:
+      213: 5716170418857879520
+    second: tileset-sliced_144
+  - first:
+      213: -4814810404137453597
+    second: tileset-sliced_145
+  - first:
+      213: -2547791302770171137
+    second: tileset-sliced_146
+  - first:
+      213: -6378895973874470207
+    second: tileset-sliced_147
+  - first:
+      213: -8710686305375647247
+    second: tileset-sliced_148
+  - first:
+      213: 5677295579935694410
+    second: tileset-sliced_149
+  - first:
+      213: -4358981398086236390
+    second: tileset-sliced_150
+  - first:
+      213: -5029114709042505063
+    second: tileset-sliced_151
+  - first:
+      213: -3620374634525987564
+    second: tileset-sliced_152
+  - first:
+      213: 4721100566525188592
+    second: tileset-sliced_153
+  - first:
+      213: 2505280863251866834
+    second: tileset-sliced_154
+  - first:
+      213: 8451981687391928753
+    second: tileset-sliced_155
+  - first:
+      213: -9111039401271098628
+    second: tileset-sliced_156
+  - first:
+      213: 7337528754644119217
+    second: tileset-sliced_157
+  - first:
+      213: -6384883336984843916
+    second: tileset-sliced_158
+  - first:
+      213: -8265154039357955196
+    second: tileset-sliced_159
+  - first:
+      213: -3466688441380045636
+    second: tileset-sliced_160
+  - first:
+      213: 4198885681195569296
+    second: tileset-sliced_161
+  - first:
+      213: 187508840113995036
+    second: tileset-sliced_162
+  - first:
+      213: 840443084544727624
+    second: tileset-sliced_163
+  - first:
+      213: -3566115899800673305
+    second: tileset-sliced_164
+  - first:
+      213: 8135323623196867583
+    second: tileset-sliced_165
+  - first:
+      213: -755040385368491430
+    second: tileset-sliced_166
+  - first:
+      213: 5884070119728394008
+    second: tileset-sliced_167
+  - first:
+      213: -5538687566651150123
+    second: tileset-sliced_168
+  - first:
+      213: 6792602682260520159
+    second: tileset-sliced_169
+  - first:
+      213: -6937901588867460898
+    second: tileset-sliced_170
+  - first:
+      213: -6456280047497051414
+    second: tileset-sliced_171
+  - first:
+      213: -5724314345881379758
+    second: tileset-sliced_172
+  - first:
+      213: 7793028385810012603
+    second: tileset-sliced_173
+  - first:
+      213: -8831749700541457711
+    second: tileset-sliced_174
+  - first:
+      213: 5869301166687837109
+    second: tileset-sliced_175
+  - first:
+      213: -1790612913731931740
+    second: tileset-sliced_176
+  - first:
+      213: -8475668877218922616
+    second: tileset-sliced_177
+  - first:
+      213: -5672460171255902387
+    second: tileset-sliced_178
+  - first:
+      213: -1513571564722073977
+    second: tileset-sliced_179
+  - first:
+      213: -2289548456653628181
+    second: tileset-sliced_180
+  - first:
+      213: 1032582501561298535
+    second: tileset-sliced_181
+  - first:
+      213: 5268883677003979223
+    second: tileset-sliced_182
+  - first:
+      213: -1273054007636727348
+    second: tileset-sliced_183
+  - first:
+      213: 2099712616474474475
+    second: tileset-sliced_184
+  - first:
+      213: 559369396527706600
+    second: tileset-sliced_185
+  - first:
+      213: 7423259701677927591
+    second: tileset-sliced_186
+  - first:
+      213: 985796044042042249
+    second: tileset-sliced_187
+  - first:
+      213: -241406137861786412
+    second: tileset-sliced_188
+  - first:
+      213: -33957569777365749
+    second: tileset-sliced_189
+  - first:
+      213: -8963803872912591924
+    second: tileset-sliced_190
+  - first:
+      213: -6796973120446074212
+    second: tileset-sliced_191
+  - first:
+      213: -2372550769106334589
+    second: tileset-sliced_192
+  - first:
+      213: 3965001612684486156
+    second: tileset-sliced_193
+  - first:
+      213: -4980755753961281643
+    second: tileset-sliced_194
+  - first:
+      213: -1212655503792965485
+    second: tileset-sliced_195
+  - first:
+      213: 5722100656223697731
+    second: tileset-sliced_196
+  - first:
+      213: 6211215392840489745
+    second: tileset-sliced_197
+  - first:
+      213: 9171541218724863666
+    second: tileset-sliced_198
+  - first:
+      213: -4791054332202553108
+    second: tileset-sliced_199
+  - first:
+      213: -1668549839618802987
+    second: tileset-sliced_200
+  - first:
+      213: -3170362828711182113
+    second: tileset-sliced_201
+  - first:
+      213: 6582598235447843672
+    second: tileset-sliced_202
+  - first:
+      213: 1817942698848048419
+    second: tileset-sliced_203
+  - first:
+      213: 3622430699010495860
+    second: tileset-sliced_204
+  - first:
+      213: -6703512315398801619
+    second: tileset-sliced_205
+  - first:
+      213: -904991229933135468
+    second: tileset-sliced_206
+  - first:
+      213: -4480180416516072505
+    second: tileset-sliced_207
+  - first:
+      213: -7482128603661062911
+    second: tileset-sliced_208
+  - first:
+      213: -525933572098099584
+    second: tileset-sliced_209
+  - first:
+      213: -8333734656004243937
+    second: tileset-sliced_210
+  - first:
+      213: 5059661553693253794
+    second: tileset-sliced_211
+  - first:
+      213: -3029565328326456180
+    second: tileset-sliced_212
+  - first:
+      213: 8802438908252183112
+    second: tileset-sliced_213
+  - first:
+      213: -3042715811861242854
+    second: tileset-sliced_214
+  - first:
+      213: 8100437954038524988
+    second: tileset-sliced_215
+  - first:
+      213: -7142639482089227872
+    second: tileset-sliced_216
+  - first:
+      213: 1212095252572907775
+    second: tileset-sliced_217
+  - first:
+      213: -1831213332149453953
+    second: tileset-sliced_218
+  - first:
+      213: -4628193892502505994
+    second: tileset-sliced_219
+  - first:
+      213: -1373670626718164106
+    second: tileset-sliced_220
+  - first:
+      213: -279225659567884167
+    second: tileset-sliced_221
+  - first:
+      213: -4914719408387647979
+    second: tileset-sliced_222
+  - first:
+      213: 917248281876824603
+    second: tileset-sliced_223
+  - first:
+      213: -1932940403750856222
+    second: tileset-sliced_224
+  - first:
+      213: -7326234240070047007
+    second: tileset-sliced_225
+  - first:
+      213: -7955124526911109349
+    second: tileset-sliced_226
+  - first:
+      213: 2347385078426904262
+    second: tileset-sliced_227
+  - first:
+      213: 5303004837997340324
+    second: tileset-sliced_228
+  - first:
+      213: 5686708094451094638
+    second: tileset-sliced_229
+  - first:
+      213: -183225673536122633
+    second: tileset-sliced_230
+  - first:
+      213: -1901170777447675472
+    second: tileset-sliced_231
+  - first:
+      213: -1768470097878407345
+    second: tileset-sliced_232
+  - first:
+      213: 533753907483699254
+    second: tileset-sliced_233
+  - first:
+      213: -2195452512951921475
+    second: tileset-sliced_234
+  - first:
+      213: 728532181128539784
+    second: tileset-sliced_235
+  - first:
+      213: -4760404933569833491
+    second: tileset-sliced_236
+  - first:
+      213: 3991402007088788607
+    second: tileset-sliced_237
+  - first:
+      213: -1281046290234229384
+    second: tileset-sliced_238
+  - first:
+      213: 7046256218671901494
+    second: tileset-sliced_239
+  - first:
+      213: 462898042631746068
+    second: tileset-sliced_240
+  - first:
+      213: 1299993998399941965
+    second: tileset-sliced_241
+  - first:
+      213: -5361462495014320651
+    second: tileset-sliced_242
+  - first:
+      213: 8804856203262900840
+    second: tileset-sliced_243
+  - first:
+      213: -7369992973748995708
+    second: tileset-sliced_244
+  - first:
+      213: 7589317958829867146
+    second: tileset-sliced_245
+  - first:
+      213: 447663682520851302
+    second: tileset-sliced_246
+  - first:
+      213: -9065851387603626992
+    second: tileset-sliced_247
+  - first:
+      213: 6961505634653243860
+    second: tileset-sliced_248
+  - first:
+      213: 2386104840845399911
+    second: tileset-sliced_249
+  - first:
+      213: 6600592379502042325
+    second: tileset-sliced_250
+  - first:
+      213: 161839537987367795
+    second: tileset-sliced_251
+  - first:
+      213: 3423280355034035543
+    second: tileset-sliced_252
+  - first:
+      213: 4264844802340435093
+    second: tileset-sliced_253
+  - first:
+      213: 3654017631495110789
+    second: tileset-sliced_254
+  - first:
+      213: -6356306425709453529
+    second: tileset-sliced_255
+  - first:
+      213: 8735925653128238749
+    second: tileset-sliced_256
+  - first:
+      213: -3779188597714068040
+    second: tileset-sliced_257
+  - first:
+      213: -1135066886139003719
+    second: tileset-sliced_258
+  - first:
+      213: 8143614783391564133
+    second: tileset-sliced_259
+  - first:
+      213: 158337454902153845
+    second: tileset-sliced_260
+  - first:
+      213: -8796893769348613694
+    second: tileset-sliced_261
+  - first:
+      213: 5409090169394190042
+    second: tileset-sliced_262
+  - first:
+      213: 8631672208515664161
+    second: tileset-sliced_263
+  - first:
+      213: 4088436523202416215
+    second: tileset-sliced_264
+  - first:
+      213: -178711963120449670
+    second: tileset-sliced_265
+  - first:
+      213: -1000102741736862877
+    second: tileset-sliced_266
+  - first:
+      213: -9165577334324435535
+    second: tileset-sliced_267
+  - first:
+      213: -4980750646437951600
+    second: tileset-sliced_268
+  - first:
+      213: 2844463257811469750
+    second: tileset-sliced_269
+  - first:
+      213: 8334801540989807215
+    second: tileset-sliced_270
+  - first:
+      213: -8417029743964983518
+    second: tileset-sliced_271
+  - first:
+      213: -1076626827546670567
+    second: tileset-sliced_272
+  - first:
+      213: 5990624772560536960
+    second: tileset-sliced_273
+  - first:
+      213: -5028226630951169890
+    second: tileset-sliced_274
+  - first:
+      213: -3757258309931966232
+    second: tileset-sliced_275
+  - first:
+      213: -4329616231087616379
+    second: tileset-sliced_276
+  - first:
+      213: 6316356575041430386
+    second: tileset-sliced_277
+  - first:
+      213: -7465593594975802249
+    second: tileset-sliced_278
+  - first:
+      213: 4663827079410887170
+    second: tileset-sliced_279
+  - first:
+      213: 3494058239966171486
+    second: tileset-sliced_280
+  - first:
+      213: -155648162100664549
+    second: tileset-sliced_281
+  - first:
+      213: 3566260774002261063
+    second: tileset-sliced_282
+  - first:
+      213: 5565909649964079529
+    second: tileset-sliced_283
+  - first:
+      213: 3455269626426147772
+    second: tileset-sliced_284
+  - first:
+      213: 4165025756441834095
+    second: tileset-sliced_285
+  - first:
+      213: -4118476224851859229
+    second: tileset-sliced_286
+  - first:
+      213: -3452750410254035407
+    second: tileset-sliced_287
+  - first:
+      213: -3139263414408452977
+    second: tileset-sliced_288
+  - first:
+      213: 8058748541431641219
+    second: tileset-sliced_289
+  - first:
+      213: 6768685788324779271
+    second: tileset-sliced_290
+  - first:
+      213: 5629482844317709976
+    second: tileset-sliced_291
+  - first:
+      213: 4540155124540256935
+    second: tileset-sliced_292
+  - first:
+      213: -7729638053359242949
+    second: tileset-sliced_293
+  - first:
+      213: 7214103370208140833
+    second: tileset-sliced_294
+  - first:
+      213: 6561928902601085085
+    second: tileset-sliced_295
+  - first:
+      213: 8176701309150748086
+    second: tileset-sliced_296
+  - first:
+      213: 7188266628953829494
+    second: tileset-sliced_297
+  - first:
+      213: -5606165136208100749
+    second: tileset-sliced_298
+  - first:
+      213: -744531894292145591
+    second: tileset-sliced_299
+  - first:
+      213: 4377226883009118041
+    second: tileset-sliced_300
+  - first:
+      213: -541682729530389663
+    second: tileset-sliced_301
+  - first:
+      213: 5699124338875842035
+    second: tileset-sliced_302
+  - first:
+      213: 4739067351807278052
+    second: tileset-sliced_303
+  - first:
+      213: 8256869936918971932
+    second: tileset-sliced_304
+  - first:
+      213: 8013142985752461725
+    second: tileset-sliced_305
+  - first:
+      213: 8134587472354613378
+    second: tileset-sliced_306
+  - first:
+      213: -2175216124057107055
+    second: tileset-sliced_307
+  - first:
+      213: 2974505906995583723
+    second: tileset-sliced_308
+  - first:
+      213: 4771309355643511280
+    second: tileset-sliced_309
+  - first:
+      213: 1407938225192639110
+    second: tileset-sliced_310
+  - first:
+      213: 1259671782031662888
+    second: tileset-sliced_311
+  - first:
+      213: 5147340620479050925
+    second: tileset-sliced_312
+  - first:
+      213: 1256566710450838793
+    second: tileset-sliced_313
+  - first:
+      213: -5431503280622984430
+    second: tileset-sliced_314
+  - first:
+      213: 5715989562279751302
+    second: tileset-sliced_315
+  - first:
+      213: -6863642347136374844
+    second: tileset-sliced_316
+  - first:
+      213: -7585160124762705244
+    second: tileset-sliced_317
+  - first:
+      213: -3393902592000237541
+    second: tileset-sliced_318
+  - first:
+      213: -253834189311562856
+    second: tileset-sliced_319
+  - first:
+      213: 525284544604082466
+    second: tileset-sliced_320
+  - first:
+      213: -9030403667988861831
+    second: tileset-sliced_321
+  - first:
+      213: 6251573496869825488
+    second: tileset-sliced_322
+  - first:
+      213: 4875744870051552553
+    second: tileset-sliced_323
+  - first:
+      213: 1176827371175472952
+    second: tileset-sliced_324
+  - first:
+      213: 8141093278154157382
+    second: tileset-sliced_325
+  - first:
+      213: -3538311068133560708
+    second: tileset-sliced_326
+  - first:
+      213: 3643505383495189202
+    second: tileset-sliced_327
+  - first:
+      213: 8452474848831658947
+    second: tileset-sliced_328
+  - first:
+      213: 1743892060329476920
+    second: tileset-sliced_329
+  - first:
+      213: 2632038444733480124
+    second: tileset-sliced_330
+  - first:
+      213: 947259793960843829
+    second: tileset-sliced_331
+  - first:
+      213: -813478660811557654
+    second: tileset-sliced_332
+  - first:
+      213: 6604016210600465870
+    second: tileset-sliced_333
+  - first:
+      213: 8689819326882926756
+    second: tileset-sliced_334
+  - first:
+      213: 3710348651278092265
+    second: tileset-sliced_335
+  - first:
+      213: -4796585144539899146
+    second: tileset-sliced_336
+  - first:
+      213: 6395444021788854323
+    second: tileset-sliced_337
+  - first:
+      213: -8214831511056674863
+    second: tileset-sliced_338
+  - first:
+      213: -3076172450054801823
+    second: tileset-sliced_339
+  - first:
+      213: 7826508789560672266
+    second: tileset-sliced_340
+  - first:
+      213: -9130317790558640858
+    second: tileset-sliced_341
+  - first:
+      213: 7703506262087694747
+    second: tileset-sliced_342
+  - first:
+      213: -1630574123896602723
+    second: tileset-sliced_343
+  - first:
+      213: 4858558447400031442
+    second: tileset-sliced_344
+  - first:
+      213: -3275932795863532949
+    second: tileset-sliced_345
+  - first:
+      213: -2081559193569390248
+    second: tileset-sliced_346
+  - first:
+      213: -8213333240557191528
+    second: tileset-sliced_347
+  - first:
+      213: -2742317814756997744
+    second: tileset-sliced_348
+  - first:
+      213: -4770678725270591676
+    second: tileset-sliced_349
+  - first:
+      213: 2037408501164716173
+    second: tileset-sliced_350
+  - first:
+      213: -5411369019235048070
+    second: tileset-sliced_351
+  - first:
+      213: 6372525447696273080
+    second: tileset-sliced_352
+  - first:
+      213: -6055099449796494924
+    second: tileset-sliced_353
+  - first:
+      213: 7848649144828741283
+    second: tileset-sliced_354
+  - first:
+      213: 4897460234775725408
+    second: tileset-sliced_355
+  - first:
+      213: 8416556442829148226
+    second: tileset-sliced_356
+  - first:
+      213: -3322292435945092974
+    second: tileset-sliced_357
+  - first:
+      213: -4457533208927172608
+    second: tileset-sliced_358
+  - first:
+      213: -8935122043076053203
+    second: tileset-sliced_359
+  - first:
+      213: 3036400135466333111
+    second: tileset-sliced_360
+  - first:
+      213: 5436961875884922882
+    second: tileset-sliced_361
+  - first:
+      213: 2958011134216776696
+    second: tileset-sliced_362
+  - first:
+      213: 3468778118513350034
+    second: tileset-sliced_363
+  - first:
+      213: 2694089313477405397
+    second: tileset-sliced_364
+  - first:
+      213: -3731066438570994849
+    second: tileset-sliced_365
+  - first:
+      213: 2442882720697662632
+    second: tileset-sliced_366
+  - first:
+      213: -7027504486989911997
+    second: tileset-sliced_367
+  - first:
+      213: 3201487230788058457
+    second: tileset-sliced_368
+  - first:
+      213: 786472016523666420
+    second: tileset-sliced_369
+  - first:
+      213: -5797630749685352414
+    second: tileset-sliced_370
+  - first:
+      213: -452424833191680400
+    second: tileset-sliced_371
+  - first:
+      213: 1590754386852813454
+    second: tileset-sliced_372
+  - first:
+      213: -6291747920817652293
+    second: tileset-sliced_373
+  - first:
+      213: 2844342146545060651
+    second: tileset-sliced_374
+  - first:
+      213: 6956963950043106395
+    second: tileset-sliced_375
+  - first:
+      213: -1050365522450183705
+    second: tileset-sliced_376
+  - first:
+      213: 2112648043320774305
+    second: tileset-sliced_377
+  - first:
+      213: 8690014150911844229
+    second: tileset-sliced_378
+  - first:
+      213: 2689782618581264879
+    second: tileset-sliced_379
+  - first:
+      213: -7799005950425751061
+    second: tileset-sliced_380
+  - first:
+      213: -302885347417511773
+    second: tileset-sliced_381
+  - first:
+      213: -9152649126932277610
+    second: tileset-sliced_382
+  - first:
+      213: -3077219524261779172
+    second: tileset-sliced_383
+  - first:
+      213: 2647453703012622009
+    second: tileset-sliced_384
+  - first:
+      213: -146023389425640562
+    second: tileset-sliced_385
+  - first:
+      213: -7947947893375560194
+    second: tileset-sliced_386
+  - first:
+      213: 2679318260112039543
+    second: tileset-sliced_387
+  - first:
+      213: -5456357190963068475
+    second: tileset-sliced_388
+  - first:
+      213: -9193947222644437029
+    second: tileset-sliced_389
+  - first:
+      213: -1393977502438576787
+    second: tileset-sliced_390
+  - first:
+      213: -1151656802845111035
+    second: tileset-sliced_391
+  - first:
+      213: 9046756045066138473
+    second: tileset-sliced_392
+  - first:
+      213: 1514113333756650476
+    second: tileset-sliced_393
+  - first:
+      213: -4433295783777245146
+    second: tileset-sliced_394
+  - first:
+      213: -6747963172786747506
+    second: tileset-sliced_395
+  - first:
+      213: -3017501373786428958
+    second: tileset-sliced_396
+  - first:
+      213: -4891936291904238448
+    second: tileset-sliced_397
+  - first:
+      213: -7369763850613598372
+    second: tileset-sliced_398
+  - first:
+      213: -4706193831621666151
+    second: tileset-sliced_399
+  - first:
+      213: -241154159238586838
+    second: tileset-swampywater
+  - first:
+      213: 4973818847108162885
+    second: tileset-swampywater-island-tl
+  - first:
+      213: -7675420871605332341
+    second: tileset-swampywater-island-tr
+  - first:
+      213: 6331406295223407419
+    second: tileset-swampywater-island-br
+  - first:
+      213: -7113295510664375526
+    second: tileset-waterfall-water-left
+  - first:
+      213: 2581466432035864022
+    second: tileset-waterfall-water-right
+  - first:
+      213: 8127700894701177983
+    second: tileset-waterfall-right
+  - first:
+      213: 764838929692251612
+    second: tileset-fence-end-r
+  - first:
+      213: 7177736923610895500
+    second: tileset-fence-t3
+  - first:
+      213: -2157253151221533608
+    second: tileset-fence-t1
+  - first:
+      213: -6944316645060517179
+    second: tileset-fence-t2
+  - first:
+      213: 1828725683827455833
+    second: tileset-planks-v-b
+  - first:
+      213: 3724873462942357837
+    second: tileset-planks-v
+  - first:
+      213: -6772543794872232969
+    second: tileset-planks-h-r
+  - first:
+      213: -7445201808271757756
+    second: tileset-planks-h
+  - first:
+      213: -6648437961259685730
+    second: tileset-pole-1
+  - first:
+      213: -6517642396242143992
+    second: tileset-pole-2
+  - first:
+      213: -1626598112066357358
+    second: tileset-pole-3
+  - first:
+      213: 333403152114281281
+    second: tileset-pole-4
+  - first:
+      213: -4648479044434930097
+    second: tileset-pole-5
+  - first:
+      213: 3744064334508595600
+    second: tileset-pole-6
+  - first:
+      213: 7612744761818762565
+    second: tileset-pole-7
+  - first:
+      213: 5222063488001119641
+    second: tileset-pole-t
+  - first:
+      213: -7007115573915933360
+    second: tileset-weeds
+  - first:
+      213: 3461904828995811352
+    second: tileset-weeds-r
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset-ditch-corner-tl
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc80db903961aef4fabaf74afcf4ada0
+      internalID: 8020792422996973119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-t1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27d08815af15f4088185841e02dd45
+      internalID: 7622575126782243504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-t2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63faf738792d03a44974db5dbcf4c5ae
+      internalID: -5056025633293989528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-t3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290ab51dc7ccbdc44baf7c83fd6236ab
+      internalID: 5333720824279054982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-t4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70baf10657555a4438dca8f9cd0532cc
+      internalID: -5232436616217831087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-corner-tr
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5417ea31dae256645b2768965deaf7a2
+      internalID: 8187979096719078458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-corner-tl
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6657f05dd2eabc46b4e07a1a1793a30
+      internalID: -2235941659904884338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-wall-t1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c82e0e32d3ec40845c2b898082317
+      internalID: -2168684223711406176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-wall-t2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c3ab1609b2d24b80181c539bb2482
+      internalID: -1085757764421800911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-corner-tr
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbd54b5d2c5467469820b24ae524e62
+      internalID: 4973835992339445236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-island-bl
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4142c867564c4b81aae0601d62fd6
+      internalID: -2625335489137864698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-wall-l1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f684dc9a5e4a648b9ed2cc35d396d2
+      internalID: 8229570887415758234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-rock
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f32979f93ba8443ae558bd2e33c4ad
+      internalID: 8867161112231138238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-wall-r1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 432
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b32af1baef96f448e986c5aa59282e
+      internalID: -8784487641343689580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-l1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177117ad4c259194e8cacfd180f82dae
+      internalID: -5828040857380144616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-door_closed
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f4bb58f516d0640b82b9b31747243d
+      internalID: 5512922540846680189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-door_open
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b8c7db4a16d6c41999ae7b11fc3d4a
+      internalID: -1212771841240213024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-r1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c03aa4306e07448b666fdf877a6fb1
+      internalID: 9165148420479917735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-wall-l2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 400
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eac4b82ba769445a4b515d71db6c29
+      internalID: -4603852178612683570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-wall-r2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 400
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481307068756344c81118540c29c80a
+      internalID: 5265570729163935484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-waterfall-left
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 336
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c29e7e62f12de4ca41c74c6a2ba449
+      internalID: -3143653778693314978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-l2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73863317b51c0e4c8112a692046788e
+      internalID: -850241531969959492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-r2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e886172b58d8af40874d2964510e642
+      internalID: -2304672727128620705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-bubble
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ece58dc677c5324aabb1aac731281e3
+      internalID: 4447391927100505344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-roc
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06c221bc702e464c962ab9c83a0a1f2
+      internalID: -5483675960577113276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-l3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa27e672a9a68ab459e48a46d09379a6
+      internalID: 2579539874063866950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-ladder
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74a47438c61fc40bf28664a2c065b1
+      internalID: 2424661989531479048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-r3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019d4f029caf7df4b98c6dd587364f51
+      internalID: 8460005599496329479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-corner-bl
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb62183a6f961ad4fa2cb5ac1e061bba
+      internalID: 4183624679388102006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-wall-b1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3e711be345b854b9213718d2a986dc
+      internalID: 6441094262660707957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-wall-b2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb404c472634aaa4c9e81ec5cd798b85
+      internalID: -3058506490785018268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-corner-br
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41429ae29376ad145bc271ad5a0fb580
+      internalID: -5774405334793930303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-flower-angle
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 339
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e82531c7c1ace40abefad5adf3d994
+      internalID: 6864542464105368374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-flower
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 337
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf511a6b4775099489f6e5cfe7f00220
+      internalID: 6642295835797722845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-l4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f4d8344054e64cb3e7bf2c3d2fbce
+      internalID: 7950090198149811095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-r4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b4e90446c79b47af8d24ce0728b94
+      internalID: 6584611610073148787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-corner-tl1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469e0453a330174ca09501df7328200
+      internalID: 7953928647319060498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-wall-t
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33343451f3919e2468bc9e68661e9dd5
+      internalID: -2705965462299797424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-corner-tr1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d32b4f8097ad104a94e5c63b49b9230
+      internalID: -4252782480052157552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-corner-tl2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a422072e9e0a4b8a400de34b3ac0b
+      internalID: 4139817615643025436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-corner-tr2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a45b9b56055988459fbd3f1e9783363
+      internalID: 3668591595767138898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-corner-bl
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c40466085875d4d89c6dcef3212af2
+      internalID: 3596298000867399806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-b1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4402671b2163d6448a624f0eec789f17
+      internalID: 1045128459966263314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-b2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9fd823b50cf3c4b8e616a61292833f
+      internalID: 4116619017300698554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-b3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6ed7758d9a3a840903502521c33a7f
+      internalID: -3589982636622132726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-wall-b4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d75036e49693478df000b35f25f6b
+      internalID: -8930052257991932378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-ditch-corner-br
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a401f65dbd8a5ed4099bdd374297bf9a
+      internalID: 4257369742982959978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-wall-l
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114cd6ce9f54ac548b44bdf07c4a39e5
+      internalID: 5377579401652241825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a825d23a74333234098ca82b115b03e3
+      internalID: 8364609108277474705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-wall-r
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10c8a20d4a786545b35787e5d589806
+      internalID: 400812050444974297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e29a4ed3935ec41b3342c00d8c5384
+      internalID: -4564748824263588208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-fence-end-l
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 272
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8013e9180c368242865330ef32f123e
+      internalID: -3781412447517039816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-corner-bl1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7271f8efcf94bf42b0ccb8b761ee3ed
+      internalID: 5182681697396754656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-wall-b
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dcddc7460c68f4b9d665894046246e
+      internalID: -3140246663281267157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-corner-br1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6397cc99c03c3e64499499830d45aa83
+      internalID: 932243041560661764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-hole-corner-bl2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b23f09f0ff6fd44bd1567c2df6cbfa
+      internalID: -6283606344640301416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_56tileset-hole-corner-br2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21bfa99e1fb52e4dab8d18359a86d85
+      internalID: 5328591923958208443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-fence-corner-tl
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 229
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c535fe970eb7b48b82e11d5e6f4bc8
+      internalID: 3976022316319362365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-fence-corner-tr
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 229
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de7a0af567cc44a8cd900fee50c43b
+      internalID: 3696824499305643015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees-tl
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d6003f27be75439d3c64de84b9b5f
+      internalID: -2312856234986826905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees-t
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb0f61fffb9a31449e9967c3598885f
+      internalID: 1106084945053415596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees-tr
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61eed7c2f549a49bed895ffe039b19
+      internalID: 4918240498868846477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-dirt
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb6e797aacb89443a97a19ff5357b58
+      internalID: -4979070009616143990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2608487ea1c0c3d4ba301157809e1551
+      internalID: 926161850240992034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-planks-v-t
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 195
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c57e8b1a4a0714f9371dc88d05db10
+      internalID: -3146704295411059684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-planks-h-l
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 192
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3970fe6432ad4e0409e7079e9d5f0b43
+      internalID: -8774277277318192404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees-l
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1730aedd1af3104889d35bcd16424e0
+      internalID: 7166495999650178258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a13af9f6fed454a8af7947a4a2e21e
+      internalID: 5742557075259787895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees-r
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9d48d3cac71fc429703f192f6a56fc
+      internalID: 3707349414859694009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc0f1c8ddab6e04ca97f1507d49afcf
+      internalID: 8088606010041840484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e196732fb43af4d88ee9ac43490dd4
+      internalID: -4421449474183031779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb83c68ed7acc54b819dd4176f655c8
+      internalID: 337020284799169934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-b
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ed04f6b6d64d74e9760abfd41e39ec
+      internalID: 6269682995807580147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_73
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a14b7c54d422844bd250606d438ae6
+      internalID: 7621811716864641804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ff9942e75ca34582841eff5858751
+      internalID: 4521338276816939578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-drygrass-m
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751ef135e67f6424d8a420821aa83985
+      internalID: 1989006961078018389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37978357e338ea04ab742ee83a3dce3f
+      internalID: 4296434068114500887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479230f7d8f856c4ca98df032dc058cc
+      internalID: -5382599952528613768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_78
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cdeb0ca513d804f9303d5f8506f91a
+      internalID: 5618837450191078284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_79
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e17ee4495377b46a4f02045f281781
+      internalID: 1594806079736718076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2474d3456e80fe94a8b8e3d7e6fcdc91
+      internalID: 2473685157054244463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb70abc830d92244b0173706855af96
+      internalID: 6823183118975251951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7309b2e62f43e4e4f870b57df89d4a79
+      internalID: 6179408791814761474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees-bl
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680549d6cde69d49b98dcc019dd7556
+      internalID: 6941290957853808962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees-b
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774407cc6ca555e4b9cb30fed817ef14
+      internalID: 3088963208085363907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-trees-br
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4d16613ad677743bc13000c72e574d
+      internalID: -6126413747580118017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685f2a1b2889f74f8fd988e13674e94
+      internalID: -7392380995848571654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db783cfd7b57334b9ff4650d342d72a
+      internalID: -684317117491450766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_88
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e549b7dd89849448e967d1931fb0f9
+      internalID: -278161941275924621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-weeds-l
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbc13ec4c75de44ea4b023fe84d1ccb
+      internalID: -1918991173782740438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-oldbrick
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3da379dfc0a4e479c674d93119182d
+      internalID: 3689740884921405071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a55ac02a8321584eb856b0b26130070
+      internalID: 5958142582960167905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b60cc30b2571b448957816dbe7cab8
+      internalID: -241154159238586838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-island-tl
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd700c45751e5c44eaf9f52a1731c1b4
+      internalID: 4973818847108162885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-island-tr
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 464
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a567dc70cc600949ae9d8dea2a8ea78
+      internalID: -7675420871605332341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-swampywater-island-br
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 432
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7273bf5f56d5a47ad1e51bac3cfc19
+      internalID: 6331406295223407419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-waterfall-water-left
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a13d5b2e890695448ab87f9364568ed
+      internalID: -7113295510664375526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-waterfall-water-right
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 336
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40e4e16c405e44d9178f83b633f6af
+      internalID: 2581466432035864022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-waterfall-right
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 336
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a506dd7865dd14abf75c70c8ff4721
+      internalID: 8127700894701177983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-fence-end-r
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 272
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dffd5a6c9a2db4cbe3ae1dbced0a4e
+      internalID: 764838929692251612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-fence-t3
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 272
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6d2d1d0db47214e91c6587b86cb420
+      internalID: 7177736923610895500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-fence-t1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 272
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534e51b370c5f54ea7608d70ec9139e
+      internalID: -2157253151221533608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-fence-t2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 272
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c08a763c2f1f047b508ec2b2355f5b
+      internalID: -6944316645060517179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-planks-v-b
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 176
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7997888d49074549ac5bf0900254823
+      internalID: 1828725683827455833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-planks-v
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 189
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd8919c2d99f7f40863231f556058fd
+      internalID: 3724873462942357837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-planks-h-r
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 192
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef1280ae4f3bc42b8117a4d56c9bcf
+      internalID: -6772543794872232969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-planks-h
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 192
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e1e4137e545b844a5a4f8e292e169d
+      internalID: -7445201808271757756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 137
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833d2d3fa572d0478271bbcb5ba6525
+      internalID: -6648437961259685730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 140
+        width: 16
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f4592bfa5de37489e152976532a0dc
+      internalID: -6517642396242143992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 142
+        width: 16
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c7148d97613034497c685d93beeede
+      internalID: -1626598112066357358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 16
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d29b74e2b9eb640a2208adefffda61
+      internalID: 333403152114281281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 145
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d8d861459eaf409303b9416e99d22
+      internalID: -4648479044434930097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 153
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ca33e01861754fafcdda33f7f8df0
+      internalID: 3744064334508595600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 156
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcf43e51508bdf43bc678947db3d916
+      internalID: 7612744761818762565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-pole-t
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22e8725b17364448b44d5e7a5f1b144
+      internalID: 5222063488001119641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-weeds
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4799dd6a8cfb298479bdd9a204fbd14b
+      internalID: -7007115573915933360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-weeds-r
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecac4943f191014f972cd8436eaef6a
+      internalID: 3461904828995811352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
