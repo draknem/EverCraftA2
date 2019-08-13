@@ -193,7 +193,7 @@ TextureImporter:
     second: tileset-dirt
   - first:
       213: 926161850240992034
-    second: tileset-sliced_63
+    second: tileset-grassy-end-tl
   - first:
       213: -3146704295411059684
     second: tileset-planks-v-t
@@ -211,13 +211,13 @@ TextureImporter:
     second: tileset-trees-r
   - first:
       213: 8088606010041840484
-    second: tileset-sliced_69
+    second: tileset-drygrass-bl
   - first:
       213: -4421449474183031779
     second: tileset-sliced_70
   - first:
       213: 337020284799169934
-    second: tileset-sliced_71
+    second: tileset-grassy-left-1
   - first:
       213: 6269682995807580147
     second: tileset-pole-b
@@ -226,31 +226,31 @@ TextureImporter:
     second: tileset-sliced_73
   - first:
       213: 4521338276816939578
-    second: tileset-sliced_74
+    second: tileset-grassy-right-3
   - first:
       213: 1989006961078018389
     second: tileset-drygrass-m
   - first:
       213: 4296434068114500887
-    second: tileset-sliced_76
+    second: tileset-drygrass-s
   - first:
       213: -5382599952528613768
-    second: tileset-sliced_77
+    second: tileset-drygrass-1
   - first:
       213: 5618837450191078284
-    second: tileset-sliced_78
+    second: tileset-drygrass-leaves-1
   - first:
       213: 1594806079736718076
-    second: tileset-sliced_79
+    second: tileset-grassy-end-lt
   - first:
       213: 2473685157054244463
-    second: tileset-sliced_80
+    second: tileset-grassy-cross-tl
   - first:
       213: 6823183118975251951
-    second: tileset-sliced_81
+    second: tileset-grassy-end-rt
   - first:
       213: 6179408791814761474
-    second: tileset-sliced_82
+    second: tileset-grassy-top-3
   - first:
       213: 6941290957853808962
     second: tileset-trees-bl
@@ -262,13 +262,13 @@ TextureImporter:
     second: tileset-trees-br
   - first:
       213: -7392380995848571654
-    second: tileset-sliced_86
+    second: tileset-drygrass-2
   - first:
       213: -684317117491450766
-    second: tileset-sliced_87
+    second: tileset-drygrass-leaves-2
   - first:
       213: -278161941275924621
-    second: tileset-sliced_88
+    second: tileset-grassy-bottom-3
   - first:
       213: -4166377659969612683
     second: tileset-sliced_89
@@ -280,7 +280,7 @@ TextureImporter:
     second: tileset-oldbrick
   - first:
       213: 5958142582960167905
-    second: tileset-sliced_92
+    second: tileset-grassy-end-bl
   - first:
       213: 4947192847621340167
     second: tileset-sliced_93
@@ -1277,6 +1277,60 @@ TextureImporter:
   - first:
       213: 3461904828995811352
     second: tileset-weeds-r
+  - first:
+      213: 8020792422996973119
+    second: tileset-sliced_0
+  - first:
+      213: 2093500608993541861
+    second: tileset-drygrass-tr
+  - first:
+      213: -5845893203670065322
+    second: tileset-drygrass-br
+  - first:
+      213: 2142961041049067682
+    second: tileset-grassy-top-1
+  - first:
+      213: -1147780729843014376
+    second: tileset-grassy-end-lb
+  - first:
+      213: 3723056784586036454
+    second: tileset-grassy-bottom-1
+  - first:
+      213: 1884827010123349598
+    second: tileset-grassy-end-br
+  - first:
+      213: 8532216332073618118
+    second: tileset-grassy-top-2
+  - first:
+      213: 6800389524674236488
+    second: tileset-grassy-bottom-2
+  - first:
+      213: -3215315707437071257
+    second: tileset-grassy-cross-tr
+  - first:
+      213: -8878880065716104536
+    second: tileset-grassy-cross-bl
+  - first:
+      213: -1057551765256294864
+    second: tileset-grassy-cross-br
+  - first:
+      213: 1548193374805715503
+    second: tileset-grassy-end-rb
+  - first:
+      213: -1721854683950617669
+    second: tileset-grassy-left-2
+  - first:
+      213: 3640258610091016958
+    second: tileset-grassy-right-1
+  - first:
+      213: -2039610095963956515
+    second: tileset-grassy-right-2
+  - first:
+      213: -1338989638867462672
+    second: tileset-grassy-left-3
+  - first:
+      213: -910632906742210197
+    second: tileset-grassy-end-tr
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -1320,7 +1374,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -2696,12 +2750,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_63
+      name: tileset-grassy-end-tl
       rect:
         serializedVersion: 2
         x: 352
         y: 192
-        width: 64
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2822,13 +2876,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_69
+      name: tileset-drygrass-bl
       rect:
         serializedVersion: 2
         x: 208
         y: 160
-        width: 32
-        height: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2864,13 +2918,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_71
+      name: tileset-grassy-left-1
       rect:
         serializedVersion: 2
         x: 352
-        y: 144
-        width: 64
-        height: 32
+        y: 160
+        width: 32
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2909,8 +2963,8 @@ TextureImporter:
       name: tileset-sliced_73
       rect:
         serializedVersion: 2
-        x: 304
-        y: 144
+        x: 294
+        y: 221
         width: 32
         height: 16
       alignment: 0
@@ -2927,7 +2981,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_74
+      name: tileset-grassy-right-3
       rect:
         serializedVersion: 2
         x: 432
@@ -2969,7 +3023,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_76
+      name: tileset-drygrass-s
       rect:
         serializedVersion: 2
         x: 240
@@ -2990,7 +3044,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_77
+      name: tileset-drygrass-1
       rect:
         serializedVersion: 2
         x: 208
@@ -3011,7 +3065,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_78
+      name: tileset-drygrass-leaves-1
       rect:
         serializedVersion: 2
         x: 240
@@ -3032,13 +3086,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_79
+      name: tileset-grassy-end-lt
       rect:
         serializedVersion: 2
         x: 272
-        y: 64
-        width: 64
-        height: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3053,13 +3107,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_80
+      name: tileset-grassy-cross-tl
       rect:
         serializedVersion: 2
         x: 352
-        y: 64
-        width: 64
-        height: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3074,13 +3128,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_81
+      name: tileset-grassy-end-rt
       rect:
         serializedVersion: 2
         x: 432
-        y: 64
+        y: 96
         width: 32
-        height: 64
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3095,7 +3149,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_82
+      name: tileset-grassy-top-3
       rect:
         serializedVersion: 2
         x: 480
@@ -3179,7 +3233,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_86
+      name: tileset-drygrass-2
       rect:
         serializedVersion: 2
         x: 208
@@ -3200,7 +3254,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_87
+      name: tileset-drygrass-leaves-2
       rect:
         serializedVersion: 2
         x: 240
@@ -3221,11 +3275,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_88
+      name: tileset-grassy-bottom-3
       rect:
         serializedVersion: 2
         x: 480
-        y: 48
+        y: 47
         width: 16
         height: 32
       alignment: 0
@@ -3284,12 +3338,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_92
+      name: tileset-grassy-end-bl
       rect:
         serializedVersion: 2
         x: 352
         y: 16
-        width: 64
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3825,6 +3879,384 @@ TextureImporter:
       bones: []
       spriteID: 4ecac4943f191014f972cd8436eaef6a
       internalID: 3461904828995811352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-sliced_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d792803ed4a14a99314076d06269d
+      internalID: 8020792422996973119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-drygrass-tr
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90148ede732084842906e5682f32531e
+      internalID: 2093500608993541861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-drygrass-br
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cedec2e4a767e42b3b71e516cc6bed
+      internalID: -5845893203670065322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-top-1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f625026f89784fb22cd73a60aff64
+      internalID: 2142961041049067682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-end-lb
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ee761f3592f8546b44ba7fcbd127f5
+      internalID: -1147780729843014376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-bottom-1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa40290e0a86d014aad1e7c4716f74f6
+      internalID: 3723056784586036454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-end-br
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f34905162c96eb48a702c4ae5d86952
+      internalID: 1884827010123349598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-top-2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067863fc157a7194a8d7ad8ca4a05a64
+      internalID: 8532216332073618118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-bottom-2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3f88e07772754eb6e1841165962c5
+      internalID: 6800389524674236488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-cross-tr
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0365092dee649a4398b905f23a1ebaa
+      internalID: -3215315707437071257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-cross-bl
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2681ea77e6b5a7f4f82f5c4a2b8cd5e2
+      internalID: -8878880065716104536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-cross-br
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e189f8808342a44ae079caa18ce24b
+      internalID: -1057551765256294864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-end-rb
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9e2ffdf7b95e489aba2874d503349
+      internalID: 1548193374805715503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-left-2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94283daf0ac90464f9731e258e9dfc84
+      internalID: -1721854683950617669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-right-1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad277b1e29667f7488dcea48ee92657a
+      internalID: 3640258610091016958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-right-2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcfd67696efcb34493a698fdd55118f
+      internalID: -2039610095963956515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-left-3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0c072146fae04cb69381563a60656
+      internalID: -1338989638867462672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tileset-grassy-end-tr
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5200ad91111d743ba0a019d6f7dcc1
+      internalID: -910632906742210197
       vertices: []
       indices: 
       edges: []
