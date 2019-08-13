@@ -62,7 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\PlayerMovement.cs" />
+    <Compile Include="Assets\Resources\Scripts\PlayerMovement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Draknem/Desktop/Personal works/Prog/EverCraft/A2/EverCraftA2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
