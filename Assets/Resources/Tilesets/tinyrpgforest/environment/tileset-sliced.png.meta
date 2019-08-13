@@ -172,7 +172,7 @@ TextureImporter:
     second: tileset-hole-corner-bl2
   - first:
       213: 5328591923958208443
-    second: tileset-sliced_56tileset-hole-corner-br2
+    second: tileset-hole-corner-br2
   - first:
       213: 3976022316319362365
     second: tileset-fence-corner-tl
@@ -1279,7 +1279,7 @@ TextureImporter:
     second: tileset-weeds-r
   - first:
       213: 8020792422996973119
-    second: tileset-sliced_0
+    second: tileset-drygrass-tl
   - first:
       213: 2093500608993541861
     second: tileset-drygrass-tr
@@ -2603,7 +2603,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_56tileset-hole-corner-br2
+      name: tileset-hole-corner-br2
       rect:
         serializedVersion: 2
         x: 432
@@ -3884,7 +3884,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset-sliced_0
+      name: tileset-drygrass-tl
       rect:
         serializedVersion: 2
         x: 208
@@ -4249,7 +4249,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
