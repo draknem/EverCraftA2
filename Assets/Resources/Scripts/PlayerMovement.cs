@@ -30,6 +30,8 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate()
     {
         //movement
+        if (movement.magnitude > 1)
+            movement = movement.normalized;
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 }

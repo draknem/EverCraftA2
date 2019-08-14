@@ -33,7 +33,7 @@ namespace UnityEngine.Tilemaps
             {
                 long hash = location.x;
                 hash = (hash + 0xabcd1234) + (hash << 15);
-                hash = (hash + 0x0987efab) ^ (hash >> 11);
+                hash = (hash + 0x0987eafb) ^ (hash >> 11);
                 hash ^= location.y;
                 hash = (hash + 0x46ac12fd) + (hash << 7);
                 hash = (hash + 0xbe9730af) ^ (hash << 11);
