@@ -5,17 +5,21 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
+    public float runModifier = 1f;
     public Rigidbody2D rb;
     public Animator animator;
 
     Vector2 movement;
-
+    float isRunning = 1f;
     // Update is called once per frame
     void Update()
     {
         //input
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
+
+        isRunning = 1 + runModifier * Input.GetAxisRaw("Run");
+        animator.SetFloat("Running", isRunning);
 
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
@@ -32,6 +36,6 @@ public class PlayerMovement : MonoBehaviour
         //movement
         if (movement.magnitude > 1)
             movement = movement.normalized;
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position + movement * moveSpeed * isRunning * Time.fixedDeltaTime);
     }
 }

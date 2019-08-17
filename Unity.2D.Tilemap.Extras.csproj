@@ -2,8 +2,6 @@
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <LangVersion>latest</LangVersion>
-    <CscToolPath>C:\Program Files\Unity\2019.2.0f1\Editor\Data\Tools\RoslynScripts</CscToolPath>
-    <CscToolExe>unity_csc.bat</CscToolExe>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -55,18 +53,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Brushes\TintTextureGenerator.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\GridInformation\GridInformation.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\AnimatedTile\AnimatedTile.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\HexagonalRuleTile\HexagonalRuleTile.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\IsometricRuleTile\IsometricRuleTile.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\PipelineTile\PipelineTile.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\RandomTile\RandomTile.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\RuleOverrideTile\RuleOverrideTile.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\RuleTile\RuleTile.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\TerrainTile\TerrainTile.cs" />
-     <Compile Include="Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\WeightedRandomTile\WeightedRandomTile.cs" />
-     <None Include="Packages\com.unity.2d.tilemap.extras\Runtime\Brushes\TintedTilemap.shader" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Brushes\TintTextureGenerator.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\GridInformation\GridInformation.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\AnimatedTile\AnimatedTile.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\HexagonalRuleTile\HexagonalRuleTile.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\IsometricRuleTile\IsometricRuleTile.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\PipelineTile\PipelineTile.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\RandomTile\RandomTile.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\RuleOverrideTile\RuleOverrideTile.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\RuleTile\RuleTile.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\TerrainTile\TerrainTile.cs" />
+     <Compile Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Tiles\WeightedRandomTile\WeightedRandomTile.cs" />
+     <None Include="C:\Users\Draknem\Desktop\Personal works\Prog\EverCraft\A2\EverCraftA2\Packages\com.unity.2d.tilemap.extras\Runtime\Brushes\TintedTilemap.shader" />
  <Reference Include="UnityEditor.UI">
  <HintPath>C:/Users/Draknem/Desktop/Personal works/Prog/EverCraft/A2/EverCraftA2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>

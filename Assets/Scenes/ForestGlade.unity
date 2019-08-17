@@ -8613,7 +8613,7 @@ Tilemap:
       - {fileID: 21300000, guid: 170c872b7a7973448bdf65b1de7b1cad, type: 3}
       - {fileID: 21300000, guid: 643969217825f5d4d8b17ca41d909aac, type: 3}
       - {fileID: 21300000, guid: 58a7b002a6501c34a8090f8876c18b49, type: 3}
-      m_AnimationSpeed: 6.0874257
+      m_AnimationSpeed: 7.868152
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -28, y: 3, z: 0}
@@ -8622,7 +8622,7 @@ Tilemap:
       - {fileID: 21300000, guid: 170c872b7a7973448bdf65b1de7b1cad, type: 3}
       - {fileID: 21300000, guid: 643969217825f5d4d8b17ca41d909aac, type: 3}
       - {fileID: 21300000, guid: 58a7b002a6501c34a8090f8876c18b49, type: 3}
-      m_AnimationSpeed: 5.0662627
+      m_AnimationSpeed: 6.0874257
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -60138,6 +60138,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5129755299350488830, guid: 9b9ac2f16b02393449526392ae9bccb6,
+        type: 3}
+      propertyPath: runModifier
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9b9ac2f16b02393449526392ae9bccb6, type: 3}
