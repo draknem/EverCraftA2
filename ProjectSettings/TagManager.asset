@@ -38,9 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: Blocker
     uniqueID: 3672783433
     locked: 0
@@ -55,4 +52,7 @@ TagManager:
     locked: 0
   - name: Interactor
     uniqueID: 3429287359
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
